@@ -1,0 +1,27 @@
+{
+  "name": "tweek",
+  "version": "0.1.0",
+  "description": "An npm package for the Tweek Twitter viewer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradoxrevolver/tweek.git"
+  },
+  "keywords": [
+    "tweek"
+  ],
+  "author": "paradoxrevolver",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/paradoxrevolver/tweek/issues"
+  },
+  "homepage": "https://github.com/paradoxrevolver/tweek#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
+}
